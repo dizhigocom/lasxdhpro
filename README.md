@@ -31,7 +31,7 @@
 
 ## 联系方式
 
-- 邮箱：dizhigo@gmail.com
+- 邮箱（真实的）：dizhigo@gmail.com
 - QQ 群：123456789
 - 微信公众号：xxxxx
 
